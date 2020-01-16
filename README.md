@@ -1,4 +1,4 @@
-# ELE237
+# Hacettepe University Electrical and Electronics Engineering Digital Design Class Documents
 
 Example VHDL codes for Hacettepe University, Department of Electrical and Electronics Engineering, ELE225 & ELE227 classes.
 This repository also can be updated with your contributions. If you want to add your term assignment or experiments please create a pull request.

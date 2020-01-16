@@ -22,4 +22,4 @@ See [Contribution Guideline](CONTRIBUTING.md) for contributing and [License](LIC
 
 Twitter: [@AnbarAhmet](https://twitter.com/AnbarAhmet)   | Github: [@ahmetanbar](https://github.com/ahmetanbar)
 
-Twitter: [@baki_almaci](https://twitter.com/baki_almaci) | Github: [@bakialmaci](https://github.com/bakialmaci)
+Twitter: [@baki_almaci](https://twitter.com/baki_almaci)  | Github: [@bakialmaci](https://github.com/bakialmaci)

@@ -1,0 +1,22 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment2/experiment2/multiplier3BitTB_isim_beh.exe -prj C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment2/experiment2/multiplier3BitTB_beh.prj work.multiplier3BitTB 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment2/experiment2/halfAdder.vhd" into library work
+Parsing VHDL file "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment2/experiment2/fullAdder.vhd" into library work
+Parsing VHDL file "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment2/experiment2/multiplier3Bit.vhd" into library work
+Parsing VHDL file "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment2/experiment2/multiplier3BitTB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity halfAdder [halfadder_default]
+Compiling architecture behavioral of entity fullAdder [fulladder_default]
+Compiling architecture behavioral of entity multiplier3Bit [multiplier3bit_default]
+Compiling architecture behavior of entity multiplier3bittb
+Time Resolution for simulation is 1ps.
+Compiled 9 VHDL Units
+Built simulation executable C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment2/experiment2/multiplier3BitTB_isim_beh.exe
+Fuse Memory Usage: 29500 KB
+Fuse CPU Usage: 452 ms

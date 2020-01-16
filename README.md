@@ -1,26 +1,19 @@
-# ELE237
+# VHDL Code Examples
 
-Example VHDL codes for Hacettepe University, Department of Electrical and Electronics Engineering, ELE237 class.
+This repository made for help the Hacettepe Electrical and Electronics Engineering students.
 
-See [Contribution Guideline](CONTRIBUTING.md) for contributing and [License](LICENSE) for license.
+## Usage
+Install Xilinx ISE from their official [website](http://www.xilinx.com).
 
-## Table of Contents
+## Contributing
+If you have more material that involving digital design topics , don't hesitate to contribute.
 
-+ [2 Bit Multiplier](2-bit-multiplier)
-+ [3 to 8 Decoder](3-to-8-decoder)
-+ [4 to 1 Mux](4-to-1-mux)
-+ [Add Subtractor](add-subtractor)
-+ [Full Adder](full-adder)
-+ [Full Adder with Decoder](full-adder-with-decoder)
-+ [Half Adder](half-adder)
-+ [Magnitude Comparator](magnitude-comparator)
+## More Contact
+bakialmaci@gmail.com
 
-## Author
+If you looking for more material that related in the engineering you can visit our robotics society website.
 
-👤 **Ahmet ANBAR**
-
-Twitter: [@AnbarAhmet](https://twitter.com/AnbarAhmet) | Github: [@ahmetanbar](https://github.com/ahmetanbar)
+[Hunrobotx](http://robot.ee.hacettepe.edu.tr)
 
 ## License
-
-It is licensed under MIT License as found in the LICENSE file.
+[MIT](https://choosealicense.com/licenses/mit/)

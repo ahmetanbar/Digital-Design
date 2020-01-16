@@ -1,0 +1,2 @@
+vhdl work "three_to_eight_decoder.vhd"
+vhdl work "fullSubtractor.vhd"

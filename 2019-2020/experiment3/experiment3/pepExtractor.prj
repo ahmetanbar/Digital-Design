@@ -1,0 +1,3 @@
+work	"bin2bcd.vhd"
+work	"fullAdder.vhd"
+work	"shifter.vhd"

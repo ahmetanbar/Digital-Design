@@ -1,0 +1,3 @@
+vhdl isim_temp "fullAdder.vhd"
+vhdl isim_temp "shifter.vhd"
+vhdl isim_temp "shifterTB.vhd"

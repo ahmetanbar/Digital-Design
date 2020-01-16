@@ -1,0 +1,2 @@
+vhdl work "fullAdder.vhd"
+vhdl work "shifter.vhd"

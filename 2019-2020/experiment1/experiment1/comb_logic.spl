@@ -1,0 +1,9 @@
+[Inputs]
+x
+y
+z
+[Outputs]
+a
+b
+c
+[BiDir]

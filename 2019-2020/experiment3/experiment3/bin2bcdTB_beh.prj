@@ -1,0 +1,4 @@
+vhdl work "fullAdder.vhd"
+vhdl work "shifter.vhd"
+vhdl work "bin2bcd.vhd"
+vhdl work "bin2bcdTB.vhd"

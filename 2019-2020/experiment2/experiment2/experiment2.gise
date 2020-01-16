@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="experiment2.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="ThreeBitAdderSubtractor.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="ThreeBitAdderSubtractor.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="ThreeBitAdderSubtractor.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="ThreeBitAdderSubtractor.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ThreeBitAdderSubtractor.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="ThreeBitAdderSubtractor.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="ThreeBitAdderSubtractor.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="ThreeBitAdderSubtractor.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ThreeBitAdderSubtractorTB_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ThreeBitAdderSubtractorTB_stx_beh.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ThreeBitAdderSubtractor_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="ThreeBitAdderSubtractor_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="fullAdder.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="fullAdder.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="fullAdder.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="fullAdder.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="fullAdder.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="fullAdder.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="fullAdder.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="fullAdder.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="fullAdderTB_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="fullAdder_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="fullAdder_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="fullAdder_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="fullAdder_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="halfAdder.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="halfAdder.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="halfAdder.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="halfAdder.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="halfAdder.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="halfAdder.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="halfAdder.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="halfAdder.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="halfAdderTB_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="halfAdderTB_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="halfAdder_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="halfAdder_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="halfAdder_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="halfAdder_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="multiplier3Bit.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="multiplier3Bit.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="multiplier3Bit.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="multiplier3Bit.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="multiplier3Bit.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="multiplier3Bit.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="multiplier3Bit.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="multiplier3Bit.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="multiplier3BitTB_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="multiplier3BitTB_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="multiplier3BitTB_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="multiplier3Bit_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="multiplier3Bit_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1574244714" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1574244714">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244964" xil_pn:in_ck="-4468769497683250074" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1574244964">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ThreeBitAdderSubtractor.vhd"/>
+      <outfile xil_pn:name="ThreeBitAdderSubtractorTB.vhd"/>
+      <outfile xil_pn:name="fullAdder.vhd"/>
+      <outfile xil_pn:name="fullAdderTB.vhd"/>
+      <outfile xil_pn:name="halfAdder.vhd"/>
+      <outfile xil_pn:name="halfAdderTB.vhd"/>
+      <outfile xil_pn:name="multiplier3Bit.vhd"/>
+      <outfile xil_pn:name="multiplier3BitTB.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244715" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-7483402419941050075" xil_pn:start_ts="1574244715">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244715" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="3918062066966951309" xil_pn:start_ts="1574244715">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244715" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="667545297149800617" xil_pn:start_ts="1574244715">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244964" xil_pn:in_ck="-4468769497683250074" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1574244964">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ThreeBitAdderSubtractor.vhd"/>
+      <outfile xil_pn:name="ThreeBitAdderSubtractorTB.vhd"/>
+      <outfile xil_pn:name="fullAdder.vhd"/>
+      <outfile xil_pn:name="fullAdderTB.vhd"/>
+      <outfile xil_pn:name="halfAdder.vhd"/>
+      <outfile xil_pn:name="halfAdderTB.vhd"/>
+      <outfile xil_pn:name="multiplier3Bit.vhd"/>
+      <outfile xil_pn:name="multiplier3BitTB.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244966" xil_pn:in_ck="-4468769497683250074" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-4435991877724349496" xil_pn:start_ts="1574244964">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="multiplier3BitTB_beh.prj"/>
+      <outfile xil_pn:name="multiplier3BitTB_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244967" xil_pn:in_ck="-909726135958991845" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="63442539424644149" xil_pn:start_ts="1574244966">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="multiplier3BitTB_isim_beh.wdb"/>
+    </transform>
+    <transform xil_pn:end_ts="1574177609" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1574177609">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244692" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-4989883213693698012" xil_pn:start_ts="1574244692">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244692" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="667545297149800617" xil_pn:start_ts="1574244692">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244692" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1574244692">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244692" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-5304250744688694020" xil_pn:start_ts="1574244692">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244692" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="1430049303116325842" xil_pn:start_ts="1574244692">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244692" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-6738183462724600461" xil_pn:start_ts="1574244692">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1574244699" xil_pn:in_ck="5324260130401089767" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="4458421148340873424" xil_pn:start_ts="1574244692">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputRemoved"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="fullAdder.ngr"/>
+      <outfile xil_pn:name="halfAdder.ngr"/>
+      <outfile xil_pn:name="multiplier3Bit.lso"/>
+      <outfile xil_pn:name="multiplier3Bit.ngc"/>
+      <outfile xil_pn:name="multiplier3Bit.ngr"/>
+      <outfile xil_pn:name="multiplier3Bit.prj"/>
+      <outfile xil_pn:name="multiplier3Bit.stx"/>
+      <outfile xil_pn:name="multiplier3Bit.syr"/>
+      <outfile xil_pn:name="multiplier3Bit.xst"/>
+      <outfile xil_pn:name="multiplier3Bit_vhdl.prj"/>
+      <outfile xil_pn:name="multiplier3Bit_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

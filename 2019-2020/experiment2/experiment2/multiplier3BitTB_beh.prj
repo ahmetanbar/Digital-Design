@@ -1,0 +1,4 @@
+vhdl work "halfAdder.vhd"
+vhdl work "fullAdder.vhd"
+vhdl work "multiplier3Bit.vhd"
+vhdl work "multiplier3BitTB.vhd"

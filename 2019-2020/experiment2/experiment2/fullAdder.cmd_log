@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Works/experiment2/fullAdder.xst" -ofn "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Works/experiment2/fullAdder.syr" 
+xst -intstyle ise -ifn "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment2/experiment2/fullAdder.xst" -ofn "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment2/experiment2/fullAdder.syr" 
+xst -intstyle ise -ifn "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment2/experiment2/fullAdder.xst" -ofn "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment2/experiment2/fullAdder.syr" 

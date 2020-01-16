@@ -1,0 +1,2 @@
+vhdl isim_temp "cct.vhd"
+vhdl isim_temp "cct_tb.vhd"

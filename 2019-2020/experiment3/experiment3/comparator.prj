@@ -1,0 +1,2 @@
+vhdl work "decodertwo.vhd"
+vhdl work "comparator.vhd"

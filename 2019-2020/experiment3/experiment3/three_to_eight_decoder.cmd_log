@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment3/experiment3/three_to_eight_decoder.xst" -ofn "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment3/experiment3/three_to_eight_decoder.syr" 
+xst -intstyle ise -ifn "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment3/experiment3/three_to_eight_decoder.xst" -ofn "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment3/experiment3/three_to_eight_decoder.syr" 

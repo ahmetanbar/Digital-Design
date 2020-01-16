@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Works/experiment1/comb_logic_tb_isim_beh.exe" -prj "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Works/experiment1/comb_logic_tb_beh.prj" "work.comb_logic_tb" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment2/experiment2/multiplier3BitTB_isim_beh.exe" -prj "C:/Users/bakialmaci/Desktop/bakialmaci/SCHOOL/DigitalSystems/Laboratory/experiment2/experiment2/multiplier3BitTB_beh.prj" "work.multiplier3BitTB" 

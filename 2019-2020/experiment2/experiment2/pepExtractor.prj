@@ -1,0 +1,3 @@
+work	"fullAdder.vhd"
+work	"halfAdder.vhd"
+work	"multiplier3Bit.vhd"

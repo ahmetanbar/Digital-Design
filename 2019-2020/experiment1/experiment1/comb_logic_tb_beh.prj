@@ -1,0 +1,2 @@
+vhdl work "comb_logic.vhd"
+vhdl work "comb_logic_tb.vhd"
